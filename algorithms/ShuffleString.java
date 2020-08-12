@@ -1,4 +1,4 @@
-package LeetCode.codingBat;
+package LeetCode.algorithms;
 
 /**
  * ShuffleString.
